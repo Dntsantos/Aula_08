@@ -26,4 +26,3 @@ for n in range (2):
 for emp in vendedores:
     print(f'\nNome: {emp["Nome"]} \nVendas: {emp["Vendas"]} \nMedia: {emp["Media"]}')
     
-https://github.com/Dntsantos/Aula_08.git
